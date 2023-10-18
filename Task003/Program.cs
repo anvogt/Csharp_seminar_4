@@ -2,6 +2,7 @@
 // 1, 2, 5, 7, 19 -> [1, 2, 5, 7, 19]
 // 6, 1, 33 -> [6, 1, 33]
 
+
 void FillArray(int[] arrayToFill)
 {
     Random rand = new Random();
