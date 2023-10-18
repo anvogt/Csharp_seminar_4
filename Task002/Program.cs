@@ -3,6 +3,7 @@
 // 82 -> 10
 // 9012 -> 12
 
+
 int ReadInt(string text)
 {
     System.Console.WriteLine(text);
